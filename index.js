@@ -1,5 +1,4 @@
-// Assuming 'helpers.js' provides necessary setup or utilities but not shown here
-// require('./helpers.js'); // Uncomment this in actual code if helpers.js is needed
+
 
 // Define the 'currentUser' variable with a sample name
 const currentUser = "John Doe";
